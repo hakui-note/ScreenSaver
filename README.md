@@ -15,3 +15,7 @@
 
 ## 注意事項
 node.jsによってAPIキーと都市名を環境変数とし、github上で非表示にしています。
+```.env
+API_KEY=YOUR_API_KEY
+CITY=CITY_NAME
+```
