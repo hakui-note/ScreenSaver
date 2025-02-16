@@ -1,6 +1,3 @@
-//const API_KEY = "43f6b1c0688b71334f05ef8a1da9c23a";
-//const CITY = "Niigata";
-
 function updateTime() {
     const now = new Date();
     const hours = String(now.getHours()).padStart(2, '0');
